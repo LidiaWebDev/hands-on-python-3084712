@@ -1,1 +1,4 @@
-<h1>Hello World!</h1>
+<h1>Python course notes</h1>
+<p>High-level interpreted programming language</p>
+<p>Used for web development, data science, scripting</p>
+<p>It is used by major organizations, including NASA, Microsoft, and Google</p>
